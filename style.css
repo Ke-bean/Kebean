@@ -250,7 +250,7 @@ p {
 	left: 0;
 	height: 100%;
 	width: 0;
-	background-color: #fff;
+	background-color: black;
 	animation: text_reveal_box 1s ease;
 	animation-delay: 0.5s;
 }
