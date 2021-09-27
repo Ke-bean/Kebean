@@ -202,7 +202,7 @@ p {
 }
 /* Hero Section */
 #hero {
-	background-image: url(./img/try.jpg);
+	background-image: url(./img/port.JPG);
 	background-size: cover;
 	background-position: top center;
 	position: relative;
@@ -665,8 +665,8 @@ p {
 		margin: 1.5%;
 	}
 	#hero {
-		background-image: url(./img/try.jpg);
-		background-size:contain;
+		background-image: url(./img/port.JPG);
+		background-size:cover;
 		background-position: center;
 		position: relative;
 		z-index: 1;
